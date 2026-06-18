@@ -1,30 +1,40 @@
-zfs-addons © 2026 by Iain Davidson is licensed under
 Creative Commons Attribution-NonCommercial-ShareAlike (BY-NC-SA 4.0) International.
 To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
-<a href="https://github.com/MynaITLabs/zfs-addons">zfs-addons</a> © 2026 by <a href="https://github.com/MynaITLabs">Iain Davidson</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+zfs-addons © 2026 by Iain Davidson is licensed under CC BY-NC-SA 4.0 
 
 Unless otherwise noted, all files in this distribution are released
 under the Creative Commons BY-NC-SA 4.0 license.
 
+REFERENCES:
+* CC BY NC SA - https://creativecommons.org/licenses/by-nc-sa/4.0/
+* zfs-addons - https://github.com/MynaITLabs/zfs-addons
+* Iain Davidson - https://github.com/MynaITLabs
+* (CC) https://mirrors.creativecommons.org/presskit/icons/cc.svg
+* (BY) https://mirrors.creativecommons.org/presskit/icons/by.svg
+* (NC) https://mirrors.creativecommons.org/presskit/icons/nc.svg
+* (SA) https://mirrors.creativecommons.org/presskit/icons/sa.svg
+
+
+-----------------------
 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 This license requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt,
 and build upon the material in any medium or format, for noncommercial purposes only. If others modify
 or adapt the material, they must license the modified material under identical terms.
 
-BY Credit must be given to you, the creator.
-NC Only noncommercial use of your work is permitted. Noncommercial means not primarily intended for
+BY - Credit must be given to you, the creator.
+NC - Only noncommercial use of your work is permitted. Noncommercial means not primarily intended for
    or directed towards commercial advantage or monetary compensation.
-SA Adaptations must be shared under the same terms.
+SA - Adaptations must be shared under the same terms.
 
 
 Exceptions are noted within the associated source files.
 
-For example, Common Development and Distribution License (CDDL).
+For example, the Common Development and Distribution License (CDDL).
 https://opensource.org/license/CDDL-1.0
 https://en.wikipedia.org/wiki/Common_Development_and_Distribution_License
 
 --------------------------------------------------------------------
 
 
-(rev 20260618)
+(rev 20260619)
