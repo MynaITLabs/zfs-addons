@@ -26,5 +26,5 @@ Projects under development:
 * 'mergoid.bash'       - merge several zfs filesystems that have similar file data set (i.e., missing snapshots in two similar datasets, merge into one)
 * 'zfilter.bash'       - review a zfs filesystem, removing any unwanted/undesired folders or files in snapshots.
 * 'snapoid.bash'       - snap refined clean up according to specified parms  (or even /etc/sanoid.conf ? )
-                       * i.e., sanoid will only remove snapshots if the snapshot is older than N of snaps to keep, multiplying the time period.
-                       * I want to trim out any repetitive snapshots. For example, several '_yearly' or '_monthly' snapshots in a month after some extra snapshots are created.
+  * i.e., sanoid will only remove snapshots if the snapshot is older than N of snaps to keep, multiplying the time period.
+  * I want to trim out any repetitive snapshots. For example, several '_yearly' or '_monthly' snapshots in a month after some extra snapshots are created.
