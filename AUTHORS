@@ -1,0 +1,16 @@
+AUTHOR/MAINTAINERS:
+
+    Iain Davidson <zfs-addons@myna.ws>
+
+
+STAND-ON-SHOULDERS-OF-GAINTS/CONTRIBUTORS:
+
+Many thanks and appreciation to:
+
+    ZFS    https://github.com/openzfs/zfs          (zfs/AUTHORS)
+    sanoid https://github.com/jimsalterjrs/sanoid  (sanoid/AUTHORS)
+
+
+
+
+(rev 20260618)
